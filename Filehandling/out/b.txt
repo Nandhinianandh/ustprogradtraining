@@ -1,0 +1,4 @@
+Name	salary	jobtitle
+Nandhini	50000	developer
+Shalini	60000	jr
+Sowmiya	20000	tester
