@@ -1,0 +1,39 @@
+Program Started
+Type 1 for Rupee to Dollar conversion: 
+Type 2 for Dollar to Rupee conversion: 
+Type 3 for Rupee to Euro conversion: 
+Type 4 for Dollar to Euro conversion: 
+Type 5 for Euro to Rupee conversion: 
+User Selected Choice :1
+user Given Inr :345.0
+dollar Output :4.54
+Do you wish to continue : y ->Continue
+user Given Dollar: 5.0
+rupee Output:380.25
+Do you wish to continue : y -> Continue
+user Given Inr: 67.0
+euro Output :0.84
+Do you wish to continue : y ->Continue
+user Given Dollar: 3.0
+euro Output:0.02
+Do you wish to continue : y ->Continue
+user Selected Euro: 32.0
+rupee Output:2560.0
+Break
+End of the implementation
+=======================================================================================
+Program Started
+Type 1 for Rupee to Dollar conversion: 
+Type 2 for Dollar to Rupee conversion: 
+Type 3 for Rupee to Euro conversion: 
+Type 4 for Dollar to Euro conversion: 
+Type 5 for Euro to Rupee conversion: 
+User Selected Choice :1
+user Given Inr :34.0
+dollar Output :0.45
+Do you wish to continue : y ->Continue
+user Given Dollar: 56.0
+rupee Output:4258.8
+Do you wish to continue : N -> Break
+End of the implementation
+=======================================================================================
